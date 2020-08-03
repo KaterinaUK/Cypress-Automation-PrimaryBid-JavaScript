@@ -13,8 +13,8 @@ Video of test execution: https://vimeo.com/444147712
 
 # How to run
 1. Clone the repository from GitHub:  git clone ${GitHubUrl}
-2. In a new terminal run the command:  *cd <repo> && npm i*    OR    npm install
-3. From the project directory, run:  .\node_modules\.bin\cypress open
+2. In a new terminal run the command:  '''cd <repo> && npm i*'''    OR    '''npm install'''
+3. From the project directory, run:  '''.\node_modules\.bin\cypress open'''
 4. Select testsuite.spec.js
  
 # UI UX Observations
