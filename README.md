@@ -18,14 +18,14 @@ Video of test execution: https://vimeo.com/444147712
 4. Select testsuite.spec.js
  
 # UI UX Observations
-About Us Page - upon loading the page, the image of the two mobile phones, loads initally in a low quality image.
-News Page - content is quite bulky, involves the user scrolling down the page allot.
-FAQ Page - first question of each section is open and not collapsed like the others.
-FAQ Page - navigation menu that appears at the top of other pages, is not present on the FAQ page.
-Sign Up - validation errors could display dynamically and not only upon submission.
-Sign Up - enter user details page, name, dob etc. The text box overlays the labels. On the other email/password sign up page, the label is within the box. Inconsistent design.
-Sign Up - terms and policies link is missing.
-Sign Up - text for 'Sign up' inconsistent 'Sign Up'
+About Us Page - upon loading the page, the image of the two mobile phones, loads initally in a low quality image. <br>
+News Page - content is quite bulky, involves the user scrolling down the page allot.<br>
+FAQ Page - first question of each section is open and not collapsed like the others.<br>
+FAQ Page - navigation menu that appears at the top of other pages, is not present on the FAQ page.<br>
+Sign Up - validation errors could display dynamically and not only upon submission.<br>
+Sign Up - enter user details page, name, dob etc. The text box overlays the labels. On the other email/password sign up page, the label is within the box. Inconsistent design.<br>
+Sign Up - terms and policies link is missing.<br>
+Sign Up - text for 'Sign up' inconsistent 'Sign Up'<br>
 
 
 
