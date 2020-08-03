@@ -1,6 +1,8 @@
 # Cypress Automation JavaScript - PrimaryBid
 
-Video of test execution: https://vimeo.com/444147712
+Video of test execution: https://vimeo.com/444147712 <BR><BR>
+
+Test case design - Page Object Model
 
 # Modules used / Dependancies
 - Cypress.io Test Framework 4.11.0
