@@ -1,0 +1,2 @@
+# Cypress Automation JavaScript - PrimaryBid
+ 

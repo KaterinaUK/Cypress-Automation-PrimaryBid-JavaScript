@@ -1,0 +1,19 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katerina",
+  "license": "ISC",
+  "devDependencies": {
+    "Faker": "^0.7.2",
+    "cypress": "^4.11.0",
+    "faker": "file:node_modules/faker"
+  },
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
+}
