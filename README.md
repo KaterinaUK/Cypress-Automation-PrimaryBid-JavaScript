@@ -1,6 +1,6 @@
 # Cypress Automation JavaScript - PrimaryBid
 
-Video of test execution: https://vimeo.com/444147712 <BR><BR>
+Video of test execution: https://vimeo.com/444147712 <BR>
 
 Test case design - Page Object Model
 
